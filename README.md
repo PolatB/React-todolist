@@ -1,3 +1,14 @@
+# To-Do-List with React
+
+![Alt Text](https://media.giphy.com/media/8X16hVct3SbpPyi9Oc/giphy.gif)
+
+## What is used in this project:
+
+-Components
+-Props
+-States and Lifecycle
+-localStorage
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
