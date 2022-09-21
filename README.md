@@ -5,8 +5,11 @@
 ## What is used in this project:
 
 -Components
+
 -Props
+
 -States and Lifecycle
+
 -localStorage
 
 # Getting Started with Create React App
